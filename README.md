@@ -29,3 +29,11 @@ Read (on top of the weekly readings):
 ## Week 2
 
 No class due to the public holiday. Continue with the exercises for week 1 and the readings.
+
+## Before Week 3
+
+Read (on top of the weekly readings):
+1. The fiction game [Depression Quest](http://www.depressionquest.com/)
+2. The [Bitsy](https://ledoux.itch.io/bitsy) story [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun)
+
+Read more works from the [Electronic Literature Collection](https://collection.eliterature.org/) beyond those you wrote responses to in the week 1 exercise (note the works you look at in your digital writing folio). You must pick one of these works for your Individual Case Study to present in week 4. The selection should be finalised with me by the end of class week 3. You'll likely have more success with the works in later volumes. The only work you can't select is "The Durham Poems" in volume 4.
