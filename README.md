@@ -25,3 +25,7 @@ Read (on top of the weekly readings):
 
 - [Week 1 slides](https://slides.com/benjaminlaird/digital-writing-week-1-2024)
 - [Week 1 exercises](exercises/week1.md)
+
+## Week 2
+
+No class due to the public holiday. Continue with the exercises for week 1 and the readings.
