@@ -21,6 +21,19 @@ Read (on top of the weekly readings):
 
 ## Week 1
 
+In this week's class, we discussed what everyone thought digital writing was and everyone's expectations for the class. I went through an overview of what would be covered in the coming weeks, and I discussed what is required for the assessments. As we get closer to the due dates, I’ll go into more detail for each assessment. 
+
+We then answered the questions:
+
+- What types of writing do you do (e.g. fiction, nonfiction, poetry)?
+- What tools (or techniques) do you use to write?
+- Why do you use these tools (or techniques)?
+- How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
+
+You should return to the last three questions throughout the semester as you use new tools in your writing practice and as you think about your final project.
+
+We spent some time reading and discussing "Taroko Gorge", "The Gathering Cloud", and "Shade". In week 3 we will discuss them in more detail and in relation to print works.
+
 ### Week 1 Resources
 
 - [Week 1 slides](https://slides.com/benjaminlaird/digital-writing-week-1-2024)
@@ -31,6 +44,8 @@ Read (on top of the weekly readings):
 No class due to the public holiday. Continue with the exercises for week 1 and the readings.
 
 ## Before Week 3
+
+Complete the week 1 exercises. If you have problems setting up your GitHub account or repository for your digital writing folio, I can answer any questions at the start of class in week 3.
 
 Read (on top of the weekly readings):
 1. The fiction game [Depression Quest](http://www.depressionquest.com/)
