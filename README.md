@@ -52,3 +52,7 @@ Read (on top of the weekly readings):
 2. The [Bitsy](https://ledoux.itch.io/bitsy) story [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun)
 
 Read more works from the [Electronic Literature Collection](https://collection.eliterature.org/) beyond those you wrote responses to in the week 1 exercise (note the works you look at in your digital writing folio). You must pick one of these works for your Individual Case Study to present in week 4. The selection should be finalised with me by the end of class week 3. You'll likely have more success with the works in later volumes. The only work you can't select is "The Durham Poems" in volume 4.
+
+## For Week 3
+
+Bring a few short pieces of your writing (printed and have copies on your computer). They only need to be a couple of paragraphs, so microfiction or short poems are ideal. We’ll transform these pieces in class using different processes.
