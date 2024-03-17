@@ -56,3 +56,10 @@ Read more works from the [Electronic Literature Collection](https://collection.e
 ## For Week 3
 
 Bring a few short pieces of your writing (printed and have copies on your computer). They only need to be a couple of paragraphs, so microfiction or short poems are ideal. We’ll transform these pieces in class using different processes.
+
+## Week 3
+
+### Week 3 Resources
+
+- [Week 3 slides](https://slides.com/benjaminlaird/digital-writing-week-3-2024)
+- [Week 3 exercises](exercises/week3.md)
