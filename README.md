@@ -9,6 +9,25 @@ RMIT University 2024 Digital Writing Lab notes and exercises.
 
 ## Class GitHub Accounts
 
+- [Lydia](https://github.com/LydiaAbest)
+- [Sam](https://github.com/SamBundey)
+- [Jack]()
+- [Luka]()
+- [Alyssa](https://github.com/alyssadeleo)
+- [Shane]()
+- [Nicky](https://github.com/nickytheluddite)
+- [Chay](https://github.com/cyanicain)
+- [Mallory]()
+- [Elliot]()
+- [Lucas]()
+- [Amelia](https://github.com/s3781493)
+- [Ella]()
+- [Aster]()
+- [Emma]()
+- [Lara](https://github.com/larajscuri)
+- [Tanna]()
+- [Mina]()
+
 ## Before Week 1
 
 Read (on top of the weekly readings):
@@ -63,3 +82,24 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 
 - [Week 3 slides](https://slides.com/benjaminlaird/digital-writing-week-3-2024)
 - [Week 3 exercises](exercises/week3.md)
+
+## Individual Case Studies
+
+- Lydia:
+- Sam:
+- Jack:
+- Luka:
+- Alyssa:
+- Shane: [my body — a Wunderkammer](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) by Shelley Jackson
+- Nicky: [my Dear CoUntess](https://collection.eliterature.org/4/my-dear-countess) by Danny Snelson
+- Chay:
+- Mallory:
+- Elliot:
+- Lucas:
+- Amelia:
+- Ella:
+- Aster:
+- Emma:
+- Lara: [Everything is going to be OK](https://collection.eliterature.org/4/everything-is-going-to-be-ok) by Nathalie Lawhead
+- Tanna:
+- Mina:
