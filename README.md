@@ -11,22 +11,22 @@ RMIT University 2024 Digital Writing Lab notes and exercises.
 
 - [Lydia](https://github.com/LydiaAbest)
 - [Sam](https://github.com/SamBundey)
-- [Jack]()
-- [Luka]()
+- Jack
+- Luka
 - [Alyssa](https://github.com/alyssadeleo)
-- [Shane]()
+- Shane
 - [Nicky](https://github.com/nickytheluddite)
 - [Chay](https://github.com/cyanicain)
-- [Mallory]()
-- [Elliot]()
-- [Lucas]()
+- Mallory
+- Elliot
+- Lucas
 - [Amelia](https://github.com/s3781493)
-- [Ella]()
-- [Aster]()
-- [Emma]()
+- Ella
+- Aster
+- Emma
 - [Lara](https://github.com/larajscuri)
-- [Tanna]()
-- [Mina]()
+- Tanna
+- Mina
 
 ## Before Week 1
 
