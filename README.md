@@ -85,7 +85,7 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 
 ## Individual Case Studies
 
-- Lydia:
+- Lydia: [Aphiddd](https://collection.eliterature.org/4/aphiddd) by Andy Campbell
 - Sam: [my body — a Wunderkammer](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) by Shelley Jackson
 - Jack:
 - Luka:
@@ -93,13 +93,13 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 - Shane: 
 - Nicky: [my Dear CoUntess](https://collection.eliterature.org/4/my-dear-countess) by Danny Snelson
 - Chay:
-- Mallory:
+- Mallory: [The Hunt for the Gay Planet](https://collection.eliterature.org/3/work.html?work=hunt-for-the-gay-planet) by Anna Anthropy
 - Elliot:
-- Lucas:
+- Lucas: [Yardley, PA 1997](https://collection.eliterature.org/4/yardley-pa-1997) by Todd Anderson
 - Amelia:
 - Ella:
 - Aster:
 - Emma:
 - Lara: [Everything is going to be OK](https://collection.eliterature.org/4/everything-is-going-to-be-ok) by Nathalie Lawhead
-- Tanna:
+- Tanna: [Dawn](https://collection.eliterature.org/1/works/strasser_sondheim__dawn.html) by Reiner Strasser and Alan Sondheim
 - Mina:
