@@ -86,11 +86,11 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 ## Individual Case Studies
 
 - Lydia:
-- Sam:
+- Sam: [my body — a Wunderkammer](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) by Shelley Jackson
 - Jack:
 - Luka:
 - Alyssa:
-- Shane: [my body — a Wunderkammer](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) by Shelley Jackson
+- Shane: 
 - Nicky: [my Dear CoUntess](https://collection.eliterature.org/4/my-dear-countess) by Danny Snelson
 - Chay:
 - Mallory:
