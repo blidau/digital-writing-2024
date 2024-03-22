@@ -86,7 +86,7 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 - Lydia: [Aphiddd](https://collection.eliterature.org/4/aphiddd) by Andy Campbell
 - Sam: [my body — a Wunderkammer](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) by Shelley Jackson
 - Luka:
-- Alyssa:
+- Alyssa: [c-ya laterrr](https://collection.eliterature.org/4/c-ya-laterrrr) by Dan Hett
 - Shane:
 - Kayla: [Please Answer Carefully](https://collection.eliterature.org/4/please-answer-carefully) by litrouke
 - Nicky: [my Dear CoUntess](https://collection.eliterature.org/4/my-dear-countess) by Danny Snelson
