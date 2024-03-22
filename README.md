@@ -14,7 +14,7 @@ RMIT University 2024 Digital Writing Lab notes and exercises.
 - Luka
 - [Alyssa](https://github.com/alyssadeleo)
 - Shane
-- Kayla
+- [Kayla](https://github.com/KaylaGads)
 - [Nicky](https://github.com/nickytheluddite)
 - [Mallory](https://github.com/malbelle)
 - [Chay](https://github.com/cyanicain)
@@ -88,7 +88,7 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 - Luka:
 - Alyssa:
 - Shane:
-- Kayla: 
+- Kayla: [Please Answer Carefully](https://collection.eliterature.org/4/please-answer-carefully) by litrouke
 - Nicky: [my Dear CoUntess](https://collection.eliterature.org/4/my-dear-countess) by Danny Snelson
 - Mallory: [The Hunt for the Gay Planet](https://collection.eliterature.org/3/work.html?work=hunt-for-the-gay-planet) by Anna Anthropy
 - Chay:
