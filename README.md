@@ -11,7 +11,7 @@ RMIT University 2024 Digital Writing Lab notes and exercises.
 
 - [Lydia](https://github.com/LydiaAbest)
 - [Sam](https://github.com/SamBundey)
-- Luka
+- [Luka](https://github.com/lukadcruz)
 - [Alyssa](https://github.com/alyssadeleo)
 - Shane
 - [Kayla](https://github.com/KaylaGads)
