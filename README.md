@@ -99,3 +99,10 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 - Lara: [Everything is going to be OK](https://collection.eliterature.org/4/everything-is-going-to-be-ok) by Nathalie Lawhead
 - Tanna: [Dawn](https://collection.eliterature.org/1/works/strasser_sondheim__dawn.html) by Reiner Strasser and Alan Sondheim
 - Mina:
+
+## Week 4
+
+### Week 4 Resources
+
+- [Week 4 slides](https://slides.com/benjaminlaird/digital-writing-week-4-2024)
+- [Week 4 exercises](exercises/week4.md)
