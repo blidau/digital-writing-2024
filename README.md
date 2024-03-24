@@ -94,7 +94,7 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 - Chay:
 - Elliot:
 - Lucas: [Yardley, PA 1997](https://collection.eliterature.org/4/yardley-pa-1997) by Todd Anderson
-- Amelia:
+- Amelia: [Chemical Landscapes Digital Tales](https://collection.eliterature.org/1/works/falco__chemical_landscapes_digital_tales.html) by Edward Falco, with photograms by Mary Pinto and design by Will Stauffer-Norris
 - Aster: [Quing's Quest VII: The Death of Videogames!](https://collection.eliterature.org/3/work.html?work=quings-quest-vii) by Dietrich Squinkifer (Squinky)
 - Lara: [Everything is going to be OK](https://collection.eliterature.org/4/everything-is-going-to-be-ok) by Nathalie Lawhead
 - Tanna: [Dawn](https://collection.eliterature.org/1/works/strasser_sondheim__dawn.html) by Reiner Strasser and Alan Sondheim
