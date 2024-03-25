@@ -91,7 +91,7 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 - Kayla: [Please Answer Carefully](https://collection.eliterature.org/4/please-answer-carefully) by litrouke
 - Nicky: [my Dear CoUntess](https://collection.eliterature.org/4/my-dear-countess) by Danny Snelson
 - Mallory: [The Hunt for the Gay Planet](https://collection.eliterature.org/3/work.html?work=hunt-for-the-gay-planet) by Anna Anthropy
-- Chay:
+- Chay:[Writers Are Not Strangers](https://collection.eliterature.org/4/writers-are-not-strangers) by Lynda Clark
 - Elliot:
 - Lucas: [Yardley, PA 1997](https://collection.eliterature.org/4/yardley-pa-1997) by Todd Anderson
 - Amelia: [Chemical Landscapes Digital Tales](https://collection.eliterature.org/1/works/falco__chemical_landscapes_digital_tales.html) by Edward Falco, with photograms by Mary Pinto and design by Will Stauffer-Norris
