@@ -13,12 +13,12 @@ RMIT University 2024 Digital Writing Lab notes and exercises.
 - [Sam](https://github.com/SamBundey)
 - [Luka](https://github.com/lukadcruz)
 - [Alyssa](https://github.com/alyssadeleo)
-- Shane
+- [Shane](https://github.com/shane-dr)
 - [Kayla](https://github.com/KaylaGads)
 - [Nicky](https://github.com/nickytheluddite)
 - [Mallory](https://github.com/malbelle)
 - [Chay](https://github.com/cyanicain)
-- Elliot
+- [Elliot](https://github.com/ellllllliot)
 - [Lucas](https://github.com/s3895869)
 - [Amelia](https://github.com/s3781493)
 - [Aster](https://github.com/astershub)
@@ -87,12 +87,12 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 - Sam: [my body — a Wunderkammer](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) by Shelley Jackson
 - Luka:
 - Alyssa: [c-ya laterrr](https://collection.eliterature.org/4/c-ya-laterrrr) by Dan Hett
-- Shane:
+- Shane: [High Muck a Muck](https://collection.eliterature.org/3/work.html?work=high-muck-a-muck) by Fred Wah, Nicola Harwood, Jin Zhang, Bessie Wapp, Thomas Loh, Tomoyo Ihaya, Hiromoto Ida, Phillip Djwa, and Patrice Leung
 - Kayla: [Please Answer Carefully](https://collection.eliterature.org/4/please-answer-carefully) by litrouke
 - Nicky: [my Dear CoUntess](https://collection.eliterature.org/4/my-dear-countess) by Danny Snelson
 - Mallory: [The Hunt for the Gay Planet](https://collection.eliterature.org/3/work.html?work=hunt-for-the-gay-planet) by Anna Anthropy
 - Chay:[Writers Are Not Strangers](https://collection.eliterature.org/4/writers-are-not-strangers) by Lynda Clark
-- Elliot:
+- Elliot: [Redshift & Portalmetal](https://collection.eliterature.org/3/work.html?work=redshift-and-portalmetal) by micha cárdenas
 - Lucas: [Yardley, PA 1997](https://collection.eliterature.org/4/yardley-pa-1997) by Todd Anderson
 - Amelia: [Chemical Landscapes Digital Tales](https://collection.eliterature.org/1/works/falco__chemical_landscapes_digital_tales.html) by Edward Falco, with photograms by Mary Pinto and design by Will Stauffer-Norris
 - Aster: [Quing's Quest VII: The Death of Videogames!](https://collection.eliterature.org/3/work.html?work=quings-quest-vii) by Dietrich Squinkifer (Squinky)
