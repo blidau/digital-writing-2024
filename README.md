@@ -106,3 +106,10 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 
 - [Week 4 slides](https://slides.com/benjaminlaird/digital-writing-week-4-2024)
 - [Week 4 exercises](exercises/week4.md)
+
+## Week 5
+
+### Week 5 Resources
+
+- [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2024)
+- [Week 5 exercises](exercises/week5.md)
