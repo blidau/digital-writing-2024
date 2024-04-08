@@ -113,3 +113,11 @@ Bring a few short pieces of your writing (printed and have copies on your comput
 
 - [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2024)
 - [Week 5 exercises](exercises/week5.md)
+
+## Before Week 6
+
+Make sure to submit your slides from your presentation to Canvas.
+
+Read (on top of the weekly readings) Mark Bernstein's [Patterns Of Hypertext](https://www.eastgate.com/patterns/Print.html)
+
+Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](https://code.visualstudio.com/).
