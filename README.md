@@ -121,3 +121,8 @@ Make sure to submit your slides from your presentation to Canvas.
 Read (on top of the weekly readings) Mark Bernstein's [Patterns Of Hypertext](https://www.eastgate.com/patterns/Print.html)
 
 Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](https://code.visualstudio.com/).
+
+## Week 6
+
+- [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2024)
+- [Week 6 exercises](exercises/week6.md)
