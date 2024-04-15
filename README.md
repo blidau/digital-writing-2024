@@ -124,8 +124,16 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 
 ## Week 6
 
+### Week 6 Resources
+
 - [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2024)
 - [Week 6 exercises](exercises/week6.md)
+
+#### Twine Resources
+
+- [Twine Cookbook](https://twinery.org/cookbook/)
+- [Harlowe reference](https://twine2.neocities.org)
+- [Text, image and audio resources](text-image-audio-resources.md)
 
 ## Before Week 7
 
