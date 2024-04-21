@@ -77,15 +77,13 @@ You will be editing your Bitsy story in the Bitsy Game Maker.
 6. Commit the change
 7. Push to GitHub
 
-### Publish the Bitsy Game with Netlify
+### Publish the Bitsy Game with GitHub Pages
 
-1. Go to [Netlify](https://www.netlify.com/)
-2. Select "Add a new site"
-3. Select "Import an existing project"
-4. Select "GitHub" as your Git provider
-5. Select the repository that you created for your Bitsy game
-6. Leave the branch to deploy as `main`
-7. Click "Deploy site"
+1. Go to "Settings" on your repository for your work on GitHub.
+2. Click on "Pages" in the sidebar under the section "Code and automation".
+3. Under the "Branch" heading on the "GitHub Pages" page change "None" to "main".
+4. Leave "/(root)" selected and click "Save".
+5. Your project will deploy and a link to your project will be available on the "GitHub pages" page of your repository. You may need to refresh the page for it to appear and it may take a few minutes.
 
 ## Create a Simple Website
 
