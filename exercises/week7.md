@@ -40,17 +40,6 @@
 10. Commit the change
 11. Push to GitHub
 
-### Publish the Inform 7 Story with Netlify
-
-1. Go to [Netlify](https://www.netlify.com/)
-2. Select "Add a new site"
-3. Select "Import an existing project"
-4. Select "GitHub" as your Git provider
-5. Select the repository that you created for your Inform story
-6. Leave the branch to deploy as `main`
-7. For the "Publish directory" make this `Example.materials/Release` if your Inform project is called `Example` otherwise this will need to be `Your project name.materials/Release`
-8. Click "Deploy site"
-
 #### Adding a Cat to the Living Room
 
 ```
