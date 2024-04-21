@@ -12,10 +12,9 @@ Install GitHub Desktop, open it and connect it to your GitHub account. Ideally u
 
 ### Accounts
 
-Make sure you have set up accounts on the following sites. Use your GitHub account to sign up to Netlify.
+Make sure you have set up accounts on the following sites.
 
 - [GitHub account](https://github.com/)
-- [Netlify account](https://www.netlify.com/)
 
 ## Create and Publish a Twine Story
 
@@ -56,16 +55,17 @@ Publish your repository to GitHub.
 3. Click "Publish Repository".
 4. Go to GitHub in your web browser and confirm that the repository is there.
 
-### Deploy Via Netlify
+### Deploy Via GitHub Pages
 
-We now use the repository on GitHub to deploy the site with Netlify.
+We now use the repository on GitHub to deploy the site with GitHub pages.
 
-1. Go to Netlify and select "Add new site" and "Import an existing project".
-2. Select "GitHub" for your Git provider.
-3. Under "Pick a repository" select your repository.
-4. Under "Site settings, and deploy!" leave all settings as default and click "Deploy site"
+1. Go to "Settings" on your repository for your work on GitHub.
+2. Click on "Pages" in the sidebar under the section "Code and automation".
+3. Under the "Branch" heading on the "GitHub Pages" page change "None" to "main".
+4. Leave "/(root)" selected and click "Save".
+5. Your project will deploy and a link to your project will be available on the "GitHub pages" page of your repository. You may need to refresh the page for it to appear and it may take a few minutes.
 
-Your Twine story should now be published. Every time you make a change, save over the `index.html`, commit the change and push to GitHub your Twine story will deploy the changes to Netlify.
+Your Twine story should now be published. Every time you make a change, save over the `index.html`, commit the change and push to GitHub your Twine story will be published though this may take up to 10 minutes before the changes are visible.
 
 ## Extend the Twine Story
 
