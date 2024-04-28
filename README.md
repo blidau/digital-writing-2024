@@ -167,3 +167,14 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 - [Ren'Py](https://www.renpy.org/)
 - [Tiny Tools Directory](https://tinytools.directory/)
 - [ink](https://www.inklestudios.com/ink/)
+
+## Week 8
+
+### Week 8 Resources
+
+- [Week 8 slides](https://slides.com/benjaminlaird/digital-writing-week-8-2024)
+- [Week 8 exercises](exercises/week8.md)
+
+## Before Week 9
+
+Make sure to submit your slides from your proposal presentation to Canvas.
