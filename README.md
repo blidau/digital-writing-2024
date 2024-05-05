@@ -178,3 +178,15 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 ## Before Week 9
 
 Make sure to submit your slides from your proposal presentation to Canvas.
+
+## Week 9
+
+### Additional Readings
+
+- [Game, Game, Game and Again Game](https://the-next.eliterature.org/works/690/26/0/) (**note:** because of how the poem is accessed, it is a little laggy)
+- [The Jason Nelson Collection](https://the-next.eliterature.org/collections/26)
+
+### Week 9 Resources
+
+- [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9-2024)
+- [Week 9 exercises](exercises/week9.md)
