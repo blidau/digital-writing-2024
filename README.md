@@ -190,3 +190,10 @@ Make sure to submit your slides from your proposal presentation to Canvas.
 
 - [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9-2024)
 - [Week 9 exercises](exercises/week9.md)
+
+## Week 10
+
+### Week 10 Resources
+
+- [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10-2024)
+- [Week 10 exercises](exercises/week10.md)
