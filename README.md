@@ -197,3 +197,14 @@ Make sure to submit your slides from your proposal presentation to Canvas.
 
 - [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10-2024)
 - [Week 10 exercises](exercises/week10.md)
+
+## Week 11
+
+### Additional Reading
+
+- [The Online Publications Bridging Poetry and Code](https://www.frieze.com/article/online-publications-bridging-poetry-and-code)
+
+### Week 11 Resources
+
+- [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11-2024)
+- [Journals, zines and publications](journals.md)
