@@ -7,6 +7,7 @@
 - How do you show background videos in Twine?
 - [How can you use different fonts on different passages in Twine?](#how-can-you-use-different-fonts-on-different-passages-in-twine)
 - How can you style a conversation like it appears on a phone in Twine?
+- How can you add dialogue choices in Bitsy?
 
 ## How can you use different fonts on different passages in Twine?
 
