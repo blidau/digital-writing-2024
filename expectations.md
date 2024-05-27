@@ -1,0 +1,35 @@
+# Expectations from Week 1
+
+- Learn how to use code to with writing
+- Learn tools for website making
+- Learn about the internet and internet culture
+- Make something cool
+- Find out where to publish digital writing
+- Learn about hybrid forms
+- Learn coding
+- Learn about different forms of digital writing
+- Learn about different forms of narrative
+- Learn about the boundries of digital writing
+- Not many expectations
+- Learn new things
+- Have my practice challenged
+- General exposure to digital writing
+- Learn about the use and form
+- Getting out of my comfort zone
+- Create something I can't imagine
+- Find out what is possible
+- Learn about what tools to make what is possible
+- Learn a lot
+- Blog work
+- Something more interactive
+- Fiction or something different
+- Open to learn
+- Not expecting anything
+- Learn about interactive work like Shade
+- Experimentation with digital writing
+- Learn how it's useful for other forms
+- Being pushed to think about form more
+- Nothing big
+- Learn why authors use digital writing
+- Learn when should a work be digital and when print
+- Don't know what to expect or have expectations
