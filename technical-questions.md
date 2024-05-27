@@ -4,10 +4,41 @@
 - How do you make text lines appear over time in Twine?
 - How do you make letters appear over time in Twine?
 - How do make text appear on click (rather than going to a new passage) in Twine?
-- How do you show background videos in Twine?
+- [How do you show background videos in Twine?](#how-do-you-show-background-videos-in-twine)
 - [How can you use different fonts on different passages in Twine?](#how-can-you-use-different-fonts-on-different-passages-in-twine)
 - How can you style a conversation like it appears on a phone in Twine?
 - How can you add dialogue choices in Bitsy?
+
+## How do you show background videos in Twine?
+
+Adding a background video to a Twine passage is similar to adding audio or a foreground image. First, add a `video` directory to your Twine project directory (much like you have for audio and images). Then add the video file to the `video` directory. For instance, if you have a video called `video.mp4` you would add it to the `video` directory. As we are using GitHub the file cannot be larger than 25MB. If it is larger than this you will need to cut or compress the video.
+
+Once you've added the video to your video directory, add the following to the passage in which you want the video to appear (update the filename to the name of your video):
+
+```html
+<video autoplay loop muted class="background-video">
+  <source src="video.mp4" type="video/mp4">
+</video>
+```
+
+That will show the video inline with the text. As we want to show the video in the background we need to adjust the styles. Add a tag to the passage called `video`. We will use that tag to change the styles on the passage where we want the video to appear in the background. Then add the following to your Twine Story Stylesheet (Story->Stylesheet):
+
+```css
+/* Style the background where the video will appear */
+tw-story[tags~="video"] {
+  background-color: transparent;
+}
+
+/* Style the video element */
+.background-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: -100; /* Place the video behind everything */
+}
+```
 
 ## How can you use different fonts on different passages in Twine?
 
