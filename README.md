@@ -211,10 +211,14 @@ Make sure to submit your slides from your proposal presentation to Canvas.
 
 ## Week 12
 
-In class for week 12, there will be an opportunity for you to get feedback on your developed creative work in progress and folio. We will only have one more week of class (the optional week 13) before the projects and folios are due.
+In class for week 12, there will be an opportunity for you to get feedback on your developed creative work in progress and folio. ~~We will only have one more week of class (the optional week 13) before the projects and folios are due~~.
 
 ### Week 12 Resources
 
 - [Week 12 slides](https://slides.com/benjaminlaird/digital-writing-week-12-2024)
 - [Folio requirements](./folio-requirements.md)
 - [Coversheet for the developed creative work](./coversheet-for-developed-creative-work.md)
+
+## Week 13
+
+No optional class in week 13. Email me if you need me to answer any questions on your developed creative work or folio.
